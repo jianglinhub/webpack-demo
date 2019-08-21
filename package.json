@@ -1,0 +1,12 @@
+{
+  "name": "webpack-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Jianglin <jianglin.ren@56qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^2.6.2",
+    "webpack": "^4.39.2",
+    "webpack-cli": "^3.3.7"
+  }
+}
